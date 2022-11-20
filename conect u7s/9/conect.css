@@ -1,0 +1,54 @@
+body {
+background:  #55ffe5;
+font-size: 14px;
+
+}
+.container{
+  width: 80%;
+  margin: 50px auto;
+
+}
+.contact-box {
+  background: #fff;
+  display: flex;
+}
+.contact-left{
+  flex-basis: 60%;
+  padding: 40px 60px;
+}
+.contact-right{
+  flex-basis: 40%;
+  padding: 40px;
+  background: #1c00b5;
+  color: #fff;
+}
+h1{
+  margin-bottom: 10px;
+
+}
+.container p{
+
+  margin-bottom: 40px;
+}
+.input-row{
+display: flex;
+justify-content: space-between;
+margin-bottom: 20px;
+
+}
+.input-row .input-group{
+flex-basis: 45%;
+}
+input{
+
+  width: 100%;
+}
+.link a{
+  padding: 0px 30px;
+  font-family: calibri;
+  font-weight: bold;
+  color: #f00;
+  position: relative;
+  top: -350px;
+  right: -250px;
+}

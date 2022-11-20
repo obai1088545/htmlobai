@@ -1,0 +1,92 @@
+body{
+	margin:0px;
+	padding:0px;
+	background-attachment:fixed;
+	background-size:cover;
+  background-color: red;
+}
+
+*{
+	box-sizing:border-box;
+}
+
+.menu4 img{
+	height: 100px;
+	position: relative;
+	right: -130px;
+	top: 150px;
+  }
+.menu4 p{
+	padding: 0px 30px;
+	font-family: calibri;
+	font-weight: bold;
+	color: #ffffff;
+  position: relative;
+  right: -270px;
+  top: 50px;
+  }
+.menu3 img{
+  height: 100px;
+  position: relative;
+  right: -100px;
+  top: -100px;
+
+}
+ .menu3 p{
+	 padding: 0px 30px;
+	 font-family: calibri;
+	 font-weight: bold;
+	 color: #ffffff;
+  position: relative;
+  right: -250px;
+  top: -210px;
+}
+
+ .menu2 img{
+	height: 100px;
+	position: relative;
+	right: -110px;
+	top: 350px;
+}
+.menu2 p{
+	padding: 0px 30px;
+	font-family: calibri;
+	font-weight: bold;
+	color: #ffffff;
+	 position: relative;
+	 right: -250px;
+	 top: 250px;
+}
+ .menu1 img{
+	height: 150px;
+    position: relative;
+    right: -100px;
+		top: 25px;
+}
+.menu1 p{
+	padding: 0px 30px;
+	font-family: calibri;
+	font-weight: bold;
+	color: #ffffff;
+	height: 100px;
+    position: relative;
+    top: -70px;
+    right: -270px;
+}
+
+
+ .link a{
+    padding: 0px 30px;
+    font-family: calibri;
+    font-weight: bold;
+    color: #ffffff;
+    position: relative;
+    top: -1000px;
+}
+
+ .ok p{
+    position: relative;
+    font-size: 100px;
+    right: -400px;
+    top: -20px;
+}

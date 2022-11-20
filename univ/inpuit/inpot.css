@@ -1,0 +1,91 @@
+body {
+background-color: red;
+
+}
+
+
+
+
+.sh p{
+  padding: 0px 30px;
+    font-family: calibri;
+    font-weight: bold;
+    color: #ffffff;
+    position: relative;
+    top: 50px;
+    right: -250px;
+
+}
+.sh img{
+height: 150px;
+position: relative;
+top: 200px;
+
+}
+
+.link a{
+  padding: 0px 30px;
+    font-family: calibri;
+    font-weight: bold;
+    color: #ffffff;
+    position: relative;
+    right: -50px;
+    top: -900px;
+  }
+
+  .adu p{
+
+    padding: 0px 30px;
+      font-family: calibri;
+      font-weight: bold;
+      color: #ffffff;
+      position: relative;
+      right: -200px;
+
+  }
+.adu img{
+  height: 150px;
+  position: relative;
+  top: 170px;
+}
+
+.kh p{
+  padding: 0px 30px;
+    font-family: calibri;
+    font-weight: bold;
+    color: #ffffff;
+    position: relative;
+    right: -200px;
+}
+.kh img{
+height: 120px;
+position: relative;
+top: 100px;
+
+}
+
+.kh a{
+  padding: 0px 30px;
+    font-family: calibri;
+    font-weight: bold;
+    color: #ffffff;
+    position: relative;
+
+}
+.adu a{
+
+  padding: 0px 30px;
+    font-family: calibri;
+    font-weight: bold;
+    color: #ffffff;
+    position: relative;
+}
+.sh a{
+
+  padding: 0px 30px;
+    font-family: calibri;
+    font-weight: bold;
+    color: #ffffff;
+    position: relative;
+    top: 75px;
+}
